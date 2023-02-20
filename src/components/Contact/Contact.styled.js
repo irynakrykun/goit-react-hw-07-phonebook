@@ -1,7 +1,8 @@
 import styled from 'styled-components';
 
 export const Description = styled.p`
-  margin-left: 50px;
+  // margin-left: 50px;
+  margin-right: auto;
 `;
 export const Button = styled.button`
   background-color: blue; 
